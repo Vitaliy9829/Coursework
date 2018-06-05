@@ -43,7 +43,7 @@ namespace defender_of_ukraine_day.Controllers
         }
         public ActionResult Game()
         {
-            ViewBag.Message = "Ігра";
+            ViewBag.Message = "Гра";
 
             return View();
         }
