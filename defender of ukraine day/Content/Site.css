@@ -22,3 +22,9 @@ select,
 textarea {
     max-width: 280px;
 }
+.img-test {
+    max-width: 571px;
+    max-height: 287px;
+    width: 100%;
+    height: auto;
+}
