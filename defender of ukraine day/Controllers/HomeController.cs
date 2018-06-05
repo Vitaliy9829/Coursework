@@ -35,12 +35,6 @@ namespace defender_of_ukraine_day.Controllers
 
             return View();
         }
-        public ActionResult Nuwm()
-        {
-            ViewBag.Message = "Воднік";
-
-            return View();
-        }
         public ActionResult Game()
         {
             ViewBag.Message = "Гра";
