@@ -212,7 +212,6 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\History.cshtml" />
-    <Content Include="Views\Home\Poll.cshtml" />
     <Content Include="Views\Home\Facts.cshtml" />
     <Content Include="Views\Home\Nuwm.cshtml" />
     <Content Include="Views\Home\Game.cshtml" />

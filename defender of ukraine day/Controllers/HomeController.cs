@@ -29,12 +29,6 @@ namespace defender_of_ukraine_day.Controllers
 
             return View();
         }
-        public ActionResult Poll()
-        {
-            ViewBag.Message = "Опитування";
-
-            return View();
-        }
         public ActionResult Facts()
         {
             ViewBag.Message = "Факти";
